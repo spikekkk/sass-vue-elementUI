@@ -5,3 +5,5 @@
 ```
   v-repeatdely="2000"
 ```
+
+## 全局基于vue-element-admin 框架进行搭建
